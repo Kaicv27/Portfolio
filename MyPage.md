@@ -6,7 +6,7 @@ I grew up in a military family which has taken me to many places across the glob
 Here is a link to my resumé: `(insert link)`
 
 ### LinkedIn
-Check out my profile and/ or connect with me at ![LinkedIn.com]([https://www.example.com](https://www.linkedin.com/in/kai-velasco-874721281/))
+Check out my profile and/ or connect with me here! --> ![LinkedIn.com]([https://www.example.com](https://www.linkedin.com/in/kai-velasco-874721281/))
 
 ### Experience
 
