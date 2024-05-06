@@ -1,6 +1,6 @@
-# Kai C. Velasco
+# Portfolio
 ### About Me!
-I grew up in a military family which has taken me to many places across the globe. My journey has led me to explore different interests, and I wouldn't become formally acquainted with computing until my senior year of high school. From then on, I knew computing would be in my future and it was set into motion with my decision to be a Mathematics-Computer Science major at UC San Diego. During my time at this institution, I began exploring the different sub-disciplines of computer science and I have since been enticed by artifical intelligence and machine learning. I hope to one day pursue a career in Machine Learning Engineering. I am a member of the *National Society of Black Engineers UCSD*, and the *Association for Computing Machinery (ACM) at UCSD*. 
+My name is Kai Velasco and I am a Structural Engineering major at UC San Diego's Jacobs School of Engineering. My studies have led me to an interest in aerospace structural design/ mechanics and materials science. Extracurricularly, I study the the facets of organic structures and their employment in materials science and engineering. I believe that materials science and structural engineering can be furthered by mimicking those strucutures seen in nature by way of teaching us how structures must evolve in the face of changing environments to faciliate structural integrity and longevity. By analyzing how organic structures have evolved, we can use these changes to predict sooner how our structures must be engineered to be adaptable in changing environments.
 
 ### Resumé
 Here is a link to my resumé: `(insert link)`
@@ -10,7 +10,7 @@ Check out my profile and/ or connect with me here! --> ![LinkedIn.com]([https://
 
 ### Experience
 
-### Personal Projects
+### Personal Projects/ Designs
 
 ### Skills
 1. Python
