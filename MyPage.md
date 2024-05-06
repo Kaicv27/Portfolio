@@ -13,9 +13,9 @@ Check out my profile and/ or connect with me here! --> ![LinkedIn.com]([https://
 ### Personal Projects/ Designs
 
 ### Skills
-1. Python
-2. Java
-3. MATLAB
-4. SQL
+* Python
+* Java
+* MATLAB
+* SQL
 
 
