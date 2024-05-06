@@ -6,7 +6,7 @@ My name is Kai Velasco and I am majoring in Structural Engineering at UC San Die
 Here is a link to my resumé: `(insert link)`
 
 ### LinkedIn
-Check out my profile and/ or connect with me here! --> ![LinkedIn.com]([https://www.example.com](https://www.linkedin.com/in/kai-velasco-874721281/))
+Check out my profile and/ or connect with me here! --> [LinkedIn.com]([https://www.example.com](https://www.linkedin.com/in/kai-velasco-874721281/))
 
 ### Experience
 
