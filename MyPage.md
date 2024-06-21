@@ -1,6 +1,6 @@
 # Portfolio
 ### About Me!
-My name is Kai Velasco, and I am working towards a B.S. in Structural Engineering with a focus in Aerospace Structures at UC San Diego. Extracurricularly, I have taken a keen interest in materials science and am currently researching the replication of plant structures artifically in materials engineering. I am in the process of investigating how porous materials behave in the context of stress tolerance and heat transfer. After undergrad, I plan to pursue an M.S. in Mechanical Engineering.
+My name is Kai Velasco, and I am working towards a B.S. in Structural Engineering in the Aerospace Structures focus sequence at UC San Diego. Outside of the classroom, I have taken a keen interest in materials science; I am currently researching the replication of plant structures artificially in materials engineering for practical and extreme use cases. I am currently investigating how porous materials behave in the context of stress tolerance and heat transfer. After undergrad, I plan to pursue an M.S. in Mechanical Engineering.
 
 ### Resumé
 Here is a link to my resumé: `(insert link)`
