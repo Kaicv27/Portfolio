@@ -8,7 +8,7 @@ Here is a link to my resumé: `(insert link)`
 ## LinkedIn
 Check out my profile and connect with me here! --> [LinkedIn.com](https://www.linkedin.com/in/kai-velasco-874721281/)
 
-## Personal Projects/ Designs
+## Personal Projects & Designs
 (More on the Way!)
 
 1. ### AUTO - Your Personal CAD Assistant
