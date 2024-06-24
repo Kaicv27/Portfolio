@@ -12,6 +12,7 @@ Check out my profile and connect with me here! --> [LinkedIn.com](https://www.li
 (More to Come!)
 
 1. ### AUTO - Your Personal CAD Assistant
+AUTO is a chatbot that aids its user in computer-aided design. AUTO accompanies a user through their CAD general workflow, getting a feel for what they want to create and using this information to ease the design process and provide tips and tricks for a smooth CAD experience. AUTO ultimately serves to mitigate the often intimidating amount of functionality supplied by CAD software and makes for a more shallow learning curve so that CAD design becomes more accessible to others.
 
 
 
